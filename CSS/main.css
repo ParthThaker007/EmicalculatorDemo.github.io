@@ -1,0 +1,64 @@
+#final {
+    font-size: auto;
+    font-family: vardana;
+    color: white;
+}
+
+#total {
+    font-size: auto;
+    font-family: vardana;
+    color: white;
+}
+
+.label {
+    width: auto;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-size: auto;
+    color: solid black;
+    padding: 5px
+}
+
+.input {
+    padding: 10px;
+    margin-top: 10px;
+    background: 10px;
+    background-color: rgb(242, 244, 245);
+    color:solid black;
+    width: 180px
+    
+    
+}
+
+#dke {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../b2.jpg");
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+#mj{
+    background-color:white;
+}
+#final{
+    text-align:center;
+    border: 2px;
+    background-color: white;
+    color: black;
+    width: 280px;
+    border-radius: 10px;
+    border-color: beige;
+}
+#total{
+    text-align:center;
+    border: 2px;
+    background-color: white;
+    color: black;
+    width: 400px;
+    border-radius: 10px;
+    border-color: beige;
+}
